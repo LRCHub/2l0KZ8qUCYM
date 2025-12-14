@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "どんなときもずっと",
+  "base_artist": "μ's",
+  "createdAt": "2025-12-14T05:37:24.335713Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "どんなときもずっと",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/01_どんなときもずっと_μ's.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "どんなときもずっと",
+      "artist": "Pile",
+      "has_synced": true,
+      "path": "select/02_どんなときもずっと_Pile.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "どんなときもずっと",
+      "artist": "μ’s",
+      "has_synced": true,
+      "path": "select/03_どんなときもずっと_μ’s.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "どんなときもずっと",
+      "artist": "久保ユリカ",
+      "has_synced": false,
+      "path": "select/04_どんなときもずっと_久保ユリカ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "どんなときもずっと",
+      "artist": "三森すずこ",
+      "has_synced": true,
+      "path": "select/05_どんなときもずっと_三森すずこ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "どんなときもずっと",
+      "artist": "新田恵海",
+      "has_synced": true,
+      "path": "select/06_どんなときもずっと_新田恵海.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "どんなときもずっと",
+      "artist": "徳井青空",
+      "has_synced": false,
+      "path": "select/07_どんなときもずっと_徳井青空.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "どんなときもずっと",
+      "artist": "南條愛乃",
+      "has_synced": true,
+      "path": "select/08_どんなときもずっと_南條愛乃.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "どんなときもずっと",
+      "artist": "楠田亜衣奈",
+      "has_synced": false,
+      "path": "select/09_どんなときもずっと_楠田亜衣奈.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "どんなときもずっと",
+      "artist": "飯田里穂",
+      "has_synced": true,
+      "path": "select/10_どんなときもずっと_飯田里穂.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "どんなときもずっと (ELI Mix)",
+      "artist": "絢瀬絵里(CV.南條愛乃)",
+      "has_synced": true,
+      "path": "select/11_どんなときもずっと_(ELI_Mix)_絢瀬絵里(CV.南條愛乃).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "どんなときもずっと (HANAYO Mix)",
+      "artist": "小泉花陽(CV.久保ユリカ)",
+      "has_synced": false,
+      "path": "select/12_どんなときもずっと_(HANAYO_Mix)_小泉花陽(CV.久保ユリカ).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "どんなときもずっと (HONOKA Mix)",
+      "artist": "高坂穂乃果(CV.新田恵海)",
+      "has_synced": true,
+      "path": "select/13_どんなときもずっと_(HONOKA_Mix)_高坂穂乃果(CV.新田恵海).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "どんなときもずっと (MAKI Mix)",
+      "artist": "西木野真姫(CV.Pile)",
+      "has_synced": true,
+      "path": "select/14_どんなときもずっと_(MAKI_Mix)_西木野真姫(CV.Pile).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "どんなときもずっと (NICO Mix)",
+      "artist": "矢澤にこ(CV.徳井青空)",
+      "has_synced": false,
+      "path": "select/15_どんなときもずっと_(NICO_Mix)_矢澤にこ(CV.徳井青空).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "どんなときもずっと (NOZOMI Mix)",
+      "artist": "東條 希(CV.楠田亜衣奈)",
+      "has_synced": false,
+      "path": "select/16_どんなときもずっと_(NOZOMI_Mix)_東條_希(CV.楠田亜衣奈).txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "どんなときもずっと (RIN Mix)",
+      "artist": "星空凛(CV.飯田里穂)",
+      "has_synced": true,
+      "path": "select/17_どんなときもずっと_(RIN_Mix)_星空凛(CV.飯田里穂).lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "どんなときもずっと (UMI Mix)",
+      "artist": "園田海未(CV.三森すずこ)",
+      "has_synced": true,
+      "path": "select/18_どんなときもずっと_(UMI_Mix)_園田海未(CV.三森すずこ).lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "どんなときもずっと",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/19_どんなときもずっと_μ's.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どんなときもずっと",
+      "artist": "μ's",
+      "has_synced": false,
+      "path": "select/pl_01_どんなときもずっと_μ's.txt"
+    }
+  ]
+}
